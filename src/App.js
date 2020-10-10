@@ -6,6 +6,7 @@ import  Welcome  from './components/Welcome.js'
 import  Hello  from './components/Hello.js'
 import  Message  from './components/Message.js'
 import  Counter  from './components/Counter.js'
+import  Start  from './components/Start.js'
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       <Welcome name="Dilshan" birthday="1995/06/01"/> */}
       {/* <Message/> */}
       <Counter/>
+      <Start/>
     </div>
   );
 }
