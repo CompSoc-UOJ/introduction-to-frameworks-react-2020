@@ -26,6 +26,11 @@ function App() {
       {/* <Message/> */}
       <Counter/>
       <Start/>
+    
+      
+      <h3>This is sample sample APICall</h3>
+      <APICall />
+    
     </div>
   );
 }
